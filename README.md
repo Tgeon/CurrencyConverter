@@ -1,5 +1,5 @@
-# CurrencyConverter                                                                                                                                                                           
-                                                                                                                                                                                            Taegeon Bae
+# CurrencyConverter                                                                                                                                                                          
+    www.linkedin.com/in/taegeon-bae
 This is a personal project I worked on to showcase a handful of Java skills that are useful in the real world.
 The project uses a Real Time currency exchange rate API to convert foreign and domestic currency.
 Could potentially be modified to use any API from any business or corporation, within the bounds that it is numerical and there is an exchange rate.
